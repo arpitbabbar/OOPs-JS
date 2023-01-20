@@ -1,3 +1,6 @@
+//=> There is no as such concept of classes in JS
+classes are just wrapper over function
+
 objects are created by new keyword.
 classes = blue prints           objects - real world instance
 
@@ -5,3 +8,7 @@ objects are dynamicallyy linked to their prototypes
 In Java, cpp
 if we create a class (blueprint) and the create an object of that class its properties are fixed they can't be changed
 if we make any changes in the class then it won't be reflected in that obj we created earlier.
+
+Dunder Proto - __proto__ -> object in object itself
+
+proto ->protptye k andar prototype -> become link of prototypes
