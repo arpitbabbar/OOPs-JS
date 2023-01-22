@@ -1,0 +1,12 @@
+MVC - Modal VIew Controller
+View - jha data show hota hot
+Controller - First line of interaction b/w user and service (no bussiness logic)
+Modal - Actual backend with bussiness logic
+
+Modal - DB mainly
+Repo - methods to connect with DB - talk with DB ( methods)
+
+Controller ---> Service ---> Modal
+Service - Bussiness logic
+Controller - Recieve Request from FE moves to Service Layer to process to modal layer of needed then pass back to controller.
+now controller have data to show ta FE.
